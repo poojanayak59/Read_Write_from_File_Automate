@@ -1,0 +1,11 @@
+/venv/
+/c0_openpyxl.xlsx
+/c1_all_type_plots_panda_matplotlib.jpeg
+/c3_output.txt
+/inventory_after_exercise.xlsx
+/main.py
+/test.py
+/test_io.csv
+/test_io1.txt
+/venv/Lib/
+/.idea/
